@@ -41,7 +41,7 @@ header {
 header > h1 {
     font-family: var(--fonte2);
     padding-top: 50px;
-    font-size: 10vw;
+    font-size: 8.5vw;
     text-align: center;
     color: white;
 }
@@ -60,7 +60,7 @@ a:visited {
 
 section {
     font-family: var(--fonte3);
-    font-size: 4vw;
+    font-size: 3.5vw;
     padding-top: 10vh;
     padding-bottom: 10vh;
     padding-left: 30px;
